@@ -7,16 +7,16 @@
 
 - 💬 Ask me about **react, front-end, react-native**
 
-- 📫 How to reach me **daniilkhro.work@gmail.com**
+- 📫 How to reach me **ilyayermak10@gmail.com**
 
 - ⚡ Facts about me **I am Funny and Interesting person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/danyil-khromenko-119116249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danyil khromenko" height="30" width="40" /></a>
-<a href="https://instagram.com/daniel.khr18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel.khr18" height="30" width="40" /></a>
-<a href="https://discord.gg/BioDoniYT x_x-ϟϟAZOVϟϟ#5956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BioDoniYT x_x-ϟϟAZOVϟϟ#5956" height="30" width="40" /></a>
-<a href="https://t.me/KhromenkoDaniel" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="KhromenkoDaniel" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/ilya-yermak-775151235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ilya yermak" height="30" width="40" /></a>
+<a href="https://instagram.com/ilya_yermak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ilya_yermak" height="30" width="40" /></a>
+<a href="https://discord.gg/Donrivol#2542" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Donrivol#2542" height="30" width="40" /></a>
+<a href="https://t.me/ilya_yermak" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/telegram-3-226554.png" alt="ilya_yermak" height="30" width="30" /></a>
   
 </p>
 
@@ -37,9 +37,8 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></p>
 <h3 align="left">My pet-projects:</h3><ul>
-<li><a href="https://github.com/KhromenkoDaniel/react-sneakers"><b>React Sneakers</b>✔️</a></li>
-  <li><a href="https://github.com/KhromenkoDaniel/react-random-number-generator"><b>React Random Number Generator</b>✔️</a></li>
-<li><a href="https://github.com/KhromenkoDaniel/react-pizza"><b>Soon... React Pizza</b></a></li></ul>
+<li><a href="https://github.com/Donrivol/uber"><b>Soon...Uber</b>✔️</a></li>
+  <li><a href="https://github.com/Donrivol/courses-worpdress"><b>courses-worpdress</b>✔️</a></li>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khromenkodaniel&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khromenkodaniel" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khromenkodaniel&show_icons=true&locale=en&theme=tokyonight" alt="khromenkodaniel" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khromenkodaniel&&theme=tokyonight" alt="khromenkodaniel" /></p>
