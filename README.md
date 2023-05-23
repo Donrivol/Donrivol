@@ -40,5 +40,5 @@
 <li><a href="https://github.com/Donrivol/uber"><b>Soon...Uber</b></a></li>
   <li><a href="https://github.com/Donrivol/courses-worpdress"><b>courses-worpdress</b>✔️</a></li>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Donrivol&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Donrivol" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Donrivol&show_icons=true&locale=en&theme=tokyonight" alt="Donrivol" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Donrivol&show_icons=true&locale=en&theme=tokyonight" alt="Donrivol"/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Donrivol&&theme=tokyonight" alt="Donrivol" /></p>
